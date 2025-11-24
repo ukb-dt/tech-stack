@@ -21,7 +21,7 @@
 # Gemini
 That's an exceptionally detailed and philosophically grounded roadmap for Ukubona LLC. You've skillfully mapped your full-stack architecture onto a **life-stage metaphor (Soga)** and an **energy/consciousness model (Omni Layer)**, creating a highly coherent system identity.
 
-Your initial question concerns whether to align with the **centralized full-stack power (Google/Alphabet)** or the **distributed alliance power (Azure/Oracle/OpenAI)**.
+Your initial question concerns whether to align with the **centralized full-stack power (Google/Alphabet)** or the **distributed alliance power (Azure/[Oracle](https://www.oracle.com/news/announcement/oracle-ushers-in-new-era-of-ai-driven-electronic-health-records-2025-08-13/)/OpenAI)**.
 
 Given Ukubona's identity as a **Full-Stack Health Tech** company focused on **Data Sovereignty, Predictive Intelligence, and Interoperability** (FHIR/HL7), the **Distributed Alliance** stack offers a far superior fit for your strategic long-term goals.
 
@@ -29,7 +29,7 @@ Here is an analysis of why the Distributed Stack is the optimal choice for Ukubo
 
 ---
 
-## 🧭 Strategic Alignment: Distributed Power is Optimal
+## 🧭 Strategic [Alignment](https://ukb-dt.github.io/tails/): Distributed Power is Optimal
 
 The **Distributed Alliance Stack (Oracle $\rightarrow$ Azure $\rightarrow$ GPUs $\rightarrow$ ChatGPT)** directly supports Ukubona's high-value, high-compliance, and interoperability-focused path, especially in health tech.
 
